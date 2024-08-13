@@ -45,10 +45,11 @@ If you prefer to install the app directly on your Android device, download the A
 
 ## Usage
 
-1. Launch the app on your device.
-2. Enter a descriptive text in the input field.
-3. Press the "Create Image" button.
-4. Wait for the AI to generate and display the image based on your input.
+1. **Launch the App**: Open the AI Image Generator app on your Android device.
+2. **Enter Text**: In the input field provided, type a description or any text you want to generate an image from.
+3. **Generate Image**: Click on the "Create Image" button.
+4. **Wait for Processing**: The app will display a loading indicator while the image is being generated.
+5. **View Image**: Once the image is generated, it will be displayed on your screen. You can enter new text to generate a different image.
 
 ## Known Issues
 
