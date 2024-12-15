@@ -30,7 +30,7 @@ If you want to explore or modify the code, follow these steps:
 
    ```bash
    git clone https://github.com/rishikreddycheruku/Image-Generating-App.git
-   cd Image-Generating-App/lib
+   cd Image-Generating-App
    ```
 
 2. **Create a New Flutter Project**:
@@ -44,7 +44,7 @@ If you want to explore or modify the code, follow these steps:
 
 3. **Replace the `main.dart` File**:
 
-   Navigate to the `lib` folder in your newly created project and replace the `main.dart` file with the one provided in this repository.
+   Navigate to the `lib` folder in your newly created project and replace the `main.dart` file with the one provided in lib folder of this repository.
 
 4. **Install Dependencies**:
 
@@ -78,4 +78,3 @@ If you want to explore or modify the code, follow these steps:
 
 - **Image Generation Speed**: The time taken to generate images depends on server response.
 - **Internet Connection**: The app requires an active internet connection to function.
-- 
