@@ -15,7 +15,7 @@ This is a Flutter-based application that generates images using AI based on text
 
 ### APK Installation (For End-Users)
 
-1. Go to the [Releases](https://github.com/rishikreddycheruku/Image-Generating-App/releases) section of this repository.
+1. Go to the [Releases](https://github.com/rishikreddycheruku/Image-Generating-App/tree/main/releases) section of this repository.
 2. Download the latest APK file.
 3. Install the APK on your Android device.
 4. Launch the app and start generating images!
